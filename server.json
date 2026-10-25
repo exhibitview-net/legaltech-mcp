@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.exhibitview-net/legaltech-intelligence",
+  "title": "ExhibitView Legaltech Intelligence",
+  "description": "Search legaltech funding, acquisitions and conferences with source links and coverage caveats.",
+  "version": "0.2.0",
+  "websiteUrl": "https://exhibitview-mcp.vercel.app/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://exhibitview-intelligence.vercel.app/public/mcp"
+    }
+  ]
+}

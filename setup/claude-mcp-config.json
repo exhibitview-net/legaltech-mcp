@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "exhibitviewPublic": {
+      "type": "http",
+      "url": "https://exhibitview-intelligence.vercel.app/public/mcp"
+    }
+  }
+}
